@@ -34,4 +34,5 @@ It allows HR/admin users to manage employee records, calculate salaries automati
 git clone https://github.com/yourusername/payroll-app.git
 
 # OR manually download and extract the zip
+python -m pip install PyQt6 fpdf2
 cd payroll-app
